@@ -1,4 +1,4 @@
-# DesignPatterns
+# Design Patterns
 The goal of this project is to acquire an understanding of design patterns and implement them in C++. The design patterns that I will be implementing are:
 
 1) Builder
